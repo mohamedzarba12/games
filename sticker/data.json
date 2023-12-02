@@ -54,7 +54,7 @@
             "orientation": "portrait",
 
             "game_name": "Stickman Thief Puzzle Game",
-            "game_cover": "https://img.tapimg.net/market/images/f2bc094a314cb19ceb687faa51ae2ded.png?imageView2/0/w/720/h/405/q/80/format/jpg/interlace/1/ignore-error/1",
+            "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://lagged.com/games/play2/thief-puzzle-11994/",
 
@@ -64,8 +64,7 @@
             "show_notfication":true,
             "Counter": "360000",
             "notification_title": "check our new game",
-            "notification_text": "Woow Watermelon Merge: Fruit Drop
- game is here try it now",
+            "notification_text": "Woow Watermelon Merge Fruit Drop",
             "showrate" : true
 
         
